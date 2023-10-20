@@ -14,6 +14,7 @@
 		358DF2FB2AE27B0F00A79A77 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358DF2FA2AE27B0F00A79A77 /* NetworkManager.swift */; };
 		358DF2FF2AE27D4000A79A77 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358DF2FE2AE27D4000A79A77 /* PostData.swift */; };
 		358DF3052AE287A800A79A77 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358DF3042AE287A800A79A77 /* DetailView.swift */; };
+		358DF30B2AE28C7F00A79A77 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358DF30A2AE28C7F00A79A77 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		358DF2FA2AE27B0F00A79A77 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		358DF2FE2AE27D4000A79A77 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		358DF3042AE287A800A79A77 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		358DF30A2AE28C7F00A79A77 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				358DF2B82AE26E5A00A79A77 /* ContentView.swift */,
 				358DF3042AE287A800A79A77 /* DetailView.swift */,
+				358DF30A2AE28C7F00A79A77 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				358DF2FB2AE27B0F00A79A77 /* NetworkManager.swift in Sources */,
 				358DF2FF2AE27D4000A79A77 /* PostData.swift in Sources */,
 				358DF2B92AE26E5A00A79A77 /* ContentView.swift in Sources */,
+				358DF30B2AE28C7F00A79A77 /* WebView.swift in Sources */,
 				358DF3052AE287A800A79A77 /* DetailView.swift in Sources */,
 				358DF2B72AE26E5A00A79A77 /* H4X0R_News_PersonalApp.swift in Sources */,
 			);
